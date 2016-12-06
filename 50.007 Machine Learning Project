@@ -1,0 +1,18 @@
+50.007 Machine Learning Project
+
+Run machine learning algorithm namely HMM Viterbi and Naive Bayes Network for entity-sentiment analysis of tweets
+
+
+HOW TO RUN:
+on console, type in command: $python <file_name>
+available running files are: 
+	hmm.py
+	part5_EN.py
+	part5_ES.py
+
+Parts 2, 3 and 4 are coded in hmm.py.
+Part 2 runs by default, to change it uncomment respective code at the bottom of the file.
+To change language replace all "EN" in the file with another language "ES", "CN" or "SG"
+
+Part 5 is coded in part5_<LANGUAGE>.py
+No changing of code is required to run.
